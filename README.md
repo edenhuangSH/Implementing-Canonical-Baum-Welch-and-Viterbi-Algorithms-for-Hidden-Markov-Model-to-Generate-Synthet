@@ -23,8 +23,8 @@ Two automated tests are given under the folder of `linearhmm` (test_HMMchain.py	
 
 ## Authors
 
-* **Eden Huang** - *Initial work* - [PurpleBooth](https://github.com/edenhuangSH)
-* **Dora Li** - *Initial work* - [PurpleBooth](https://github.com/doraadong)
+* **Eden Huang** - *Initial work* - [GitHub](https://github.com/edenhuangSH)
+* **Dora Li** - *Initial work* - [GitHub](https://github.com/doraadong)
 
 
 ## License
