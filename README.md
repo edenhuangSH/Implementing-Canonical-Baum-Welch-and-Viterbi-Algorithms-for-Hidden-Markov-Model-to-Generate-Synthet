@@ -29,7 +29,7 @@ Two automated tests are given under the folder of `linearhmm` (test_HMMchain.py	
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md(https://github.com/edenhuangSH/STA663_Final_Project/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [License](https://github.com/edenhuangSH/STA663_Final_Project/blob/master/LICENSE) file for details
 
 ## Acknowledgments
 
