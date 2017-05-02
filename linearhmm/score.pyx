@@ -77,7 +77,7 @@ cpdef axis_sum(double[:,:] u, int axis, double[:,:] res):
 
 @cython.boundscheck(False)
 @cython.wraparound(False)
-cpdef score(double[:,:] transition_probability, double[:,:] emission_probability, \
+def score(double[:,:] transition_probability, double[:,:] emission_probability, \
            long[:]observations,  probabilities, forward, backward):
 
     # declare
