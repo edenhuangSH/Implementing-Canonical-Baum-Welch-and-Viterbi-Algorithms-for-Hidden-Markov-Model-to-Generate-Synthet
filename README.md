@@ -13,7 +13,8 @@ Installation of `numpy` and `pytest` are required prior to the package `linearhm
 
 ### Installing
 
-The codes are compiled as package `linearhmm`. To download the package, simply run `python setup.py install. linearhmm`. 
+The codes are compiled as package `linearhmm`. To download the package, at the root directory, simply run       
+`python setup.py install`. 
 
 
 ## Running the tests
